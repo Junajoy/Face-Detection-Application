@@ -37,9 +37,7 @@ pip install opencv-python pillow
 Usage
 Run the main script from your terminal:
 
-python app.py
-
-(Replace app.py with the name of your Python file).
+facedetectionml.py
 
 In the application window, you can either:
 
